@@ -1,0 +1,2 @@
+# Basic PF ATM AND BANKING SYSTEM WITH 2D ARRAYS AND FILE HANDLING
+ This project provides a comprehensive Atm and banking system designed on the consoled application including well used colors.It provides a atm panel and also an admin panel. It contains functions like Account Creation,Withdraw,Deposit,Funds Transfer, Cheque Transfer, Transaction History, Bank Balance, User Account Deletion, Error Reports, Session Reoports  and many more.
