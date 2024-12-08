@@ -74,7 +74,7 @@ void intro() {
 	Sleep(7000); //3000MS = 5 SEC
 
 
-	system("cls"); //TO CLEAR SCREEN AFTER 5 SEC
+	system("cls"); //TO CLEAR SCREENï¿½AFTERï¿½5ï¿½SEC
 }
 
 
@@ -162,7 +162,7 @@ void arraytofile() {
 
 	else {
 
-		cout << "¬¬¬>>>    Error in file opening    <<<¬¬¬" << endl;
+		cout << "ï¿½ï¿½ï¿½>>>    Error in file opening    <<<ï¿½ï¿½ï¿½" << endl;
 		sound();
 		string error0 = "error in file opening of array to file function";
 		error(error0);
@@ -956,7 +956,7 @@ void useraccountcreation() {
 	}
 	cout << endl;
 	cout << endl;
-	cout << "       \033[36m  ENTER THE\033[0m \033[35mINITIAL DEPOSIT\033[0m \033[35m( Atleast 10000 PKR )\033[0m ";
+	cout << "       \033[36m  ENTER THE\033[0m \033[35mINITIAL DEPOSIT\033[0m \033[35m( Atleast 10000 PKR )\033[0m  "<<endl;
 	cin >> account[usercount][4];
 	cout << endl << endl;
 	while (account[usercount][4] < 10000) {
